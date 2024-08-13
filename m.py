@@ -1,6 +1,6 @@
-marks=int(input())
-if marks>=90:
+m=int(input())
+if m>=90:
     print("A")
-elif marks>=80:
+elif m>=80:
     print("B")
-elif marks
+elif m
